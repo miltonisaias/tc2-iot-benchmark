@@ -1,0 +1,5 @@
+# Versões usadas na verificação de controle (benchmark_controle.py) e em toda a análise/gráficos (v5.0)
+cryptography==50.0.1
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2

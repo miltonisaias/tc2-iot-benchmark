@@ -1,0 +1,78 @@
+{
+ "H1": {
+  "ECDHE-ECDSA (autenticação do servidor)": {
+   "p": 0.0,
+   "cliff": 0.99902,
+   "sessoes_maior": 5,
+   "sessoes": 5
+  },
+  "ECDHE-ECDSA (autenticação mútua)": {
+   "p": 0.0,
+   "cliff": 0.99942,
+   "sessoes_maior": 5,
+   "sessoes": 5
+  }
+ },
+ "H2": {
+  "10|típico": {
+   "p_linear_gt_rbac": 5.397004285772985e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "10|pior caso": {
+   "p_linear_gt_rbac": 5.396869226540395e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "50|típico": {
+   "p_linear_gt_rbac": 5.397004285772985e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "50|pior caso": {
+   "p_linear_gt_rbac": 5.396734170628229e-51,
+   "p_linear_gt_indexado": 5.396869226540395e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "100|típico": {
+   "p_linear_gt_rbac": 5.397004285772985e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "100|pior caso": {
+   "p_linear_gt_rbac": 5.397004285772985e-51,
+   "p_linear_gt_indexado": 5.397004285772985e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "500|típico": {
+   "p_linear_gt_rbac": 5.397004285772985e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "500|pior caso": {
+   "p_linear_gt_rbac": 5.397004285772985e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "1000|típico": {
+   "p_linear_gt_rbac": 5.397139348325232e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  },
+  "1000|pior caso": {
+   "p_linear_gt_rbac": 5.397139348325232e-51,
+   "p_linear_gt_indexado": 5.397139348325232e-51,
+   "sessoes_linear_gt_rbac": 5,
+   "sessoes": 5
+  }
+ }
+}

@@ -1,0 +1,3 @@
+# Versão da biblioteca usada na COLETA do benchmark principal (resultados_sessao_N.json e resultados_extra_sessao_N.json)
+# Coleta feita com Python 3.12.3 e OpenSSL 3.5.5 (embutido na wheel). Para a análise use requirements.txt.
+cryptography==46.0.6
